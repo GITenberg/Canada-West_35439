@@ -1,0 +1,27 @@
+_repo: Canada-West_35439
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35439-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Canada. Department of the Interior
+    alias: Canada. Dept. of the Interior
+    gutenberg_agent_id: '37686'
+    url: http://www.gutenberg.org/2009/agents/37686
+description: ''
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Northwest, Canadian -- Economic conditions'
+- !lcc 'HC'
+- !lcsh 'Agriculture -- Prairie Provinces'
+title: Canada West
+url: http://www.gutenberg.org/ebooks/35439
